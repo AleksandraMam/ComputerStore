@@ -5,7 +5,7 @@
 #### Шаги для запуска проекта:
 
 1. Клонирование приложения
-git clone https://github.com/AleksandraMam/computer-store-spring-boot.git
+git clone https://github.com/AleksandraMam/ComputerStore
 
 2. Перейти в каталог приложения
 cd computer-store-spring-boot
